@@ -1,0 +1,12 @@
+:root{
+    --fuenteHeading: 'PT sans', sans-serif;
+    --fuenteParrafos: 'Open Sans', sans-serif:
+
+    --primario: #784d3c;
+    --blanco: #ffffff;
+    --negro: #000000;
+}
+
+html{
+    box-sizing: border-box;
+}
