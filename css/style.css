@@ -157,3 +157,6 @@ img{
     background-color: var(--negro);
 }
 
+.future{
+    display: none; 
+}
